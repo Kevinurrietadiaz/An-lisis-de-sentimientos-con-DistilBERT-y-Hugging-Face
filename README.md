@@ -1,2 +1,3 @@
-# An-lisis-de-sentimientos-con-DistilBERT-y-Hugging-Face
+# Analisis-de-sentimientos-con-DistilBERT-y-Hugging-Face
 Análisis de sentimientos a escala sobre el dataset IMDB utilizando Fine-Tuning de DistilBERT con Hugging Face y PyTorch. Logra un 91.6% de accuracy.
+Este proyecto consiste en el desarrollo y entrenamiento de un clasificador de lenguaje natural (NLP) basado en la arquitectura Transformer DistilBERT. El objetivo principal es la categorización automatizada de opiniones cinematográficas (IMDB Dataset) en sentimientos positivos y negativos. Mediante el uso de aceleración por GPU y técnicas de optimización de hiperparámetros, el modelo logra un rendimiento robusto con métricas balanceadas en precisión y recuperación (Recall).
